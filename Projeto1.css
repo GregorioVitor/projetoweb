@@ -459,7 +459,7 @@ div.b_r_bottom{
     font-size: 15px;
 }
 
-@media (min-width: 576px){
+@media (max-width: 1024px){
    
     body{
         width: 411px;
